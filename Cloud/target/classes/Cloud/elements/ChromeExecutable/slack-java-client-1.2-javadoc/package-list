@@ -1,0 +1,8 @@
+com.hubspot.slack.client
+com.hubspot.slack.client.concurrency
+com.hubspot.slack.client.http
+com.hubspot.slack.client.http.status
+com.hubspot.slack.client.interceptors.calls
+com.hubspot.slack.client.interceptors.http
+com.hubspot.slack.client.paging
+com.hubspot.slack.client.ratelimiting
